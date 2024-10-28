@@ -1,0 +1,7 @@
+C:\Users\dogan\Development\CSharpEducation\03_MakinDecision\bin\Debug\03_MakinDecision.exe.config
+C:\Users\dogan\Development\CSharpEducation\03_MakinDecision\bin\Debug\03_MakinDecision.exe
+C:\Users\dogan\Development\CSharpEducation\03_MakinDecision\bin\Debug\03_MakinDecision.pdb
+C:\Users\dogan\Development\CSharpEducation\03_MakinDecision\obj\Debug\03_MakinDecision.csproj.AssemblyReference.cache
+C:\Users\dogan\Development\CSharpEducation\03_MakinDecision\obj\Debug\03_MakinDecision.csproj.CoreCompileInputs.cache
+C:\Users\dogan\Development\CSharpEducation\03_MakinDecision\obj\Debug\03_MakinDecision.exe
+C:\Users\dogan\Development\CSharpEducation\03_MakinDecision\obj\Debug\03_MakinDecision.pdb
