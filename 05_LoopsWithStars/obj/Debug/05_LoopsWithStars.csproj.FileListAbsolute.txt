@@ -1,0 +1,7 @@
+C:\Users\dogan\Development\CSharpEducation\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe.config
+C:\Users\dogan\Development\CSharpEducation\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe
+C:\Users\dogan\Development\CSharpEducation\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.pdb
+C:\Users\dogan\Development\CSharpEducation\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.AssemblyReference.cache
+C:\Users\dogan\Development\CSharpEducation\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.CoreCompileInputs.cache
+C:\Users\dogan\Development\CSharpEducation\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.exe
+C:\Users\dogan\Development\CSharpEducation\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.pdb

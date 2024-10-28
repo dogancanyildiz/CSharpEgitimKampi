@@ -1,0 +1,7 @@
+C:\Users\dogan\Development\CSharpEducation\04_Loops\bin\Debug\04_Loops.exe.config
+C:\Users\dogan\Development\CSharpEducation\04_Loops\bin\Debug\04_Loops.exe
+C:\Users\dogan\Development\CSharpEducation\04_Loops\bin\Debug\04_Loops.pdb
+C:\Users\dogan\Development\CSharpEducation\04_Loops\obj\Debug\04_Loops.csproj.AssemblyReference.cache
+C:\Users\dogan\Development\CSharpEducation\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
+C:\Users\dogan\Development\CSharpEducation\04_Loops\obj\Debug\04_Loops.exe
+C:\Users\dogan\Development\CSharpEducation\04_Loops\obj\Debug\04_Loops.pdb

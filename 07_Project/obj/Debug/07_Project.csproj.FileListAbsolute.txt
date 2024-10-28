@@ -1,0 +1,7 @@
+C:\Users\dogan\Development\CSharpEducation\07_Project\bin\Debug\07_Project.exe.config
+C:\Users\dogan\Development\CSharpEducation\07_Project\bin\Debug\07_Project.exe
+C:\Users\dogan\Development\CSharpEducation\07_Project\bin\Debug\07_Project.pdb
+C:\Users\dogan\Development\CSharpEducation\07_Project\obj\Debug\07_Project.csproj.AssemblyReference.cache
+C:\Users\dogan\Development\CSharpEducation\07_Project\obj\Debug\07_Project.csproj.CoreCompileInputs.cache
+C:\Users\dogan\Development\CSharpEducation\07_Project\obj\Debug\07_Project.exe
+C:\Users\dogan\Development\CSharpEducation\07_Project\obj\Debug\07_Project.pdb
